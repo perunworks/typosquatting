@@ -4,7 +4,7 @@ Typosquatting alert
 A simple script that sends a Twitter message when it finds potential typosquatting
 
 Please edit:
-- the _typosquatting.sh_ to add your domains' names yo uwould like to monitor.
+- the _typosquatting.sh_ to add your domains' names you would like to monitor.
 - the _tweet.client.key_ to add your Twitter api details.
 
 Credits
