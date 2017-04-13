@@ -9,5 +9,5 @@ Please edit:
 
 Credits
 -------
-The script I'm using to send Twitter messages was taken from here (thanks piroor!):
+The script I'm using to send Twitter messages was taken from here (thanks [piroor](https://github.com/piroor)):
 https://github.com/piroor/tweet.sh
